@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 Hi, I’m @graceadebayo
+
+👀 I’m interested in cloud computing  
+🌱 I’m currently learning information technology  
+💞️ I’m looking to collaborate on open source projects and hackathons  
+📫 How to reach me: email and LinkedIn  
+😄 Pronouns: she/her  
+⚡ Fun fact: I love learning new things and enjoy exploring how technology shapes our world!
 
 <!--
 **graceadebayo/graceadebayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
