@@ -1,0 +1,3 @@
+Food,30,30
+Food,Lunch ,35.5
+Transport,Bus fare,50
