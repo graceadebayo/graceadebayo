@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @graceadebayo
 
-👀 I’m interested in cloud computing  
+👀 I’m interested in web developer
 🌱 I’m currently learning information technology  
 💞️ I’m looking to collaborate on open source projects and hackathons  
 📫 How to reach me: email and LinkedIn  
