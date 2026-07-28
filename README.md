@@ -41,6 +41,24 @@ Current focus:
 
 ---
 
+# 💼 Freelance Work
+
+## 🏋️ Fit Wit Andi
+
+A freelance gym website project developed for a client, with multiple iterations focused on responsive design, accessibility, and creating a better user experience across devices.
+
+**Highlights:**
+- Mobile-responsive design
+- User-friendly interface
+- Modern web development practices
+- Client-focused iteration and improvements
+
+🔗 Live Site: https://fitwitandi.netlify.app
+
+💻 Repository: https://github.com/graceadebayo/fit-wit-andi-gym
+
+---
+
 ## 📌 Project Ideas I'm Exploring
 
 ### 🤖 MindAssistant AI
