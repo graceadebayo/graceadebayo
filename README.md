@@ -128,6 +128,3 @@ To become an AI Engineer building intelligent, reliable, and responsible AI syst
 💼 LinkedIn: https://www.linkedin.com/in/grace-adebayo-b9a814217
 
 💻 GitHub: https://github.com/graceadebayo
-
-
-Finally check this 
