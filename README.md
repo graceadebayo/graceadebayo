@@ -1,177 +1,115 @@
 # Hi, I'm Grace Adebayo 👋
 
-### IT Student | Software Engineer | AI Enthusiast | Python Developer | Building MindLedger 🧠
+### IT Student | Python Developer | Web Developer | Software Engineering | Artificial Intelligence
 
 ![Profile Views](https://komarev.com/ghpvc/?username=graceadebayo&color=blueviolet)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://grace-adebayo.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/graceadebayo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grace-adebayo-b9a814217)
 
 ---
 
-## 👩🏽‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **Level 300 Information Technology student at SIIMT University College, Ghana**, passionate about building technology solutions that solve real-world problems.
-
-I have a foundation in software engineering through **ALX**, and I enjoy combining software development, artificial intelligence, and data to create meaningful applications.
+I'm a **Level 300 Information Technology student** at **SIIMT University College, Ghana** with a passion for building software that solves real-world problems.
 
 My interests include:
 
 - 🤖 Artificial Intelligence
 - 💻 Software Engineering
-- 🐍 Python Development
+- 🌐 Web Development
 - 📊 Data Analytics
 - ⚖️ Responsible AI & AI Governance
 - 🏥 Healthcare Technology
 
-I believe technology should not only be innovative but also **transparent, reliable, and responsible**.
+I enjoy turning ideas into practical applications while continuously improving my skills through hands-on projects.
 
 ---
 
-# 🚀 Featured Project
+## 🚀 Featured Project
 
-## 🧠 MindLedger AI
+### 🧠 MindLedger
 
-MindLedger is an AI accountability platform focused on helping people and organizations think about AI systems more responsibly.
+MindLedger is an AI accountability platform designed to encourage responsible AI through transparency, evaluation, and AI feedback systems.
 
-The project explores:
+Current focus:
 
-- AI transparency
-- AI feedback systems
-- Bias awareness
-- Responsible AI practices
-- Human-centered AI development
-
-The goal is to contribute to a future where AI systems are more understandable, trustworthy, and accountable.
+- AI Accountability
+- AI Feedback
+- Responsible AI
+- AI Governance
 
 ---
 
-# 🎯 Current Focus
+## 📌 Project Ideas I'm Exploring
 
-Currently focused on:
+### 🤖 MindAssistant AI
+AI chatbot built with Python and LLM APIs.
 
-- Building and improving MindLedger
-- Developing AI-powered applications
-- Improving Python and software engineering skills
-- Learning machine learning concepts
-- Exploring AI governance and responsible technology
+### ⚖️ FairLens AI
+AI bias detection and fairness evaluation system.
 
----
+### 📊 HealthInsights
+Healthcare data analytics dashboard built with Python.
 
-# 🚀 Projects I'm Building & Exploring
-
-## 🤖 MindAssistant AI
-
-An AI chatbot project exploring conversational AI, LLM integration, and intelligent assistants.
-
-**Focus:**
-- AI conversations
-- API integration
-- User interaction design
-
-
-## ⚖️ FairLens AI
-
-An AI fairness and bias evaluation tool designed to explore responsible AI practices.
-
-**Focus:**
-- Bias detection
-- AI evaluation
-- Explainable results
-
-
-## 📊 HealthInsights
-
-A healthcare data analytics project combining my healthcare information background with data science.
-
-**Focus:**
-- Python data analysis
-- Healthcare insights
-- Data visualization
-
-
-## 🚢 AI Harbor
-
-A future AI ecosystem bringing together AI tools for experimentation, evaluation, and responsible AI development.
+### 🚢 AI Harbor
+An ecosystem of AI tools for developers and organizations.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## Languages
+### Languages
+[![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Web Development
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![NodeJS](https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![ElectronJS](https://img.shields.io/badge/ELECTRONJS-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org)
+[![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-## Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
-## Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+### Tools
+[![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
+[![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-- Artificial Intelligence Engineering
 - Machine Learning
-- Data Science
+- AI Engineering
 - Cloud Computing
 - Software Architecture
 - AI Governance
-- Responsible Technology Development
 
 ---
 
-# 🎯 Career Goal
+## 🎯 Career Goal
 
-My goal is to become an **AI Engineer** building intelligent, reliable, and responsible AI systems that create positive impact in areas such as healthcare, education, and businesses.
-
-I am interested in working at the intersection of:
-
-**Software Engineering + Artificial Intelligence + Responsible Technology**
+To become an AI Engineer building intelligent, reliable, and responsible AI systems that positively impact healthcare, education, and businesses.
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![Grace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=graceadebayo&show_icons=true&theme=dark)
+![Grace's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=graceadebayo&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=graceadebayo&layout=compact&theme=dark)
-
----
-
-# ⚡ Fun Fact
-
-I enjoy transforming ideas into practical software solutions and continuously learning how technology can improve people's lives.
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=graceadebayo&layout=compact&theme=dark)
 
 ---
 
-# 📫 Let's Connect
+## 📫 Connect With Me
 
-🌐 Portfolio  
-https://grace-adebayo.netlify.app
+💼 LinkedIn: https://www.linkedin.com/in/grace-adebayo-b9a814217
 
-💼 LinkedIn  
-https://www.linkedin.com/in/grace-adebayo-b9a814217
+💻 GitHub: https://github.com/graceadebayo
 
-💻 GitHub  
-https://github.com/graceadebayo
+
+Finally check this 
